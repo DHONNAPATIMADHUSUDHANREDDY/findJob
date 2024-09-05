@@ -1,0 +1,25 @@
+/*
+.job{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:3rem;
+}
+.jobp1 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.jobp2 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+*/
+.JobN{
+  display: flex;
+  justify-content: center;
+}
+.JobCon{
+    display: flex;
+    flex-direction: column;
+}
